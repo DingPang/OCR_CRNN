@@ -11,3 +11,5 @@ The training data set is too large to be uploaded, but similar data sets can be 
 
 The exploration hand-written data set can be found [here](https://www.kaggle.com/datasets/nabeel965/handwritten-words-dataset). However, the folder structure and file names need to be changed for the script to run.
 
+## Trained model
+The saved model is "my.ckpt", and it can be loaded for testing.
